@@ -1,4 +1,5 @@
 Python1805
 learn git
 ifhuaejfakejgaghja
-today is a good day 
+today is a good day
+learning git is so easy 
